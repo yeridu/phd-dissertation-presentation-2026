@@ -55,10 +55,11 @@ Total target: about 37 minutes of speaking, leaving roughly 13 minutes for commi
 - Slide 30 -- Bullying: opioid-specific (headline)
 - Slide 31 -- Suicidality: partial specificity; KHB overview
 - Slide 32 -- Subgroup patterns + Paper 3 contribution
-- Slide 33 -- Resumen en espanol -- Paper 3
-- Slide 34 -- Thesis landed
-- Slide 35 -- THRIVE-Belize: the next study
-- Slide 36 -- Thank you and acknowledgments
+- Slide 33 -- Paper 3 contribution + limits
+- Slide 34 -- Resumen en espanol -- Paper 3
+- Slide 35 -- Thesis landed
+- Slide 36 -- THRIVE-Belize: the next study
+- Slide 37 -- Thank you and acknowledgments
 
 
 **Slide 1 -- The co-occurrence paradox**
@@ -82,7 +83,7 @@ Time slot: 0:00 -- 0:45, ~80 words
 Time slot: 0:45 -- 1:30, ~83 words
 
 1. Prevention of dating violence and substance use benefits from being both integrated and specific.
-2. Integrated, because the two problems often hit the same teens.
+2. Integrated, because the two problems often hit the same adolescents.
 3. Specific, because what drives each one isn't the same.
 
 4. Two patterns drive the thesis.
@@ -131,7 +132,7 @@ Time slot: 2:30 -- 3:15, ~105 words
 6. Each distance shows things the others can't.
 7. From far back, you see what's been tried everywhere.
 8. Up close, you see what shifts inside a school over time.
-9. From the national view, you see the patterns that hold for teens across the country.
+9. From the national view, you see the patterns that hold for adolescents across the country.
 
 ***BRIDGE: "The theoretical work lives in Papers 2 and 3."***
 
@@ -152,9 +153,9 @@ Time slot: 3:15 -- 4:30, ~185 words
 9. Prediction: school-level beliefs about alcohol and sexual assault shift slowly over time.
 10. Paper 2 tests this in 26 Kentucky high schools across four years.
 
-11. Paper 3 puts three theories about why teens use substances head-to-head.
-12. First: teens who take risks use every substance -- so all substances should rise together.
-13. Second: teens turn to opioids specifically to escape emotional pain like bullying -- so there should be an opioid-specific bullying signal.
+11. Paper 3 puts three theories about why adolescents use substances head-to-head.
+12. First: adolescents who take risks use every substance -- so all substances should rise together.
+13. Second: adolescents turn to opioids specifically to escape emotional pain like bullying -- so there should be an opioid-specific bullying signal.
 14. Third: general adversity drives substance use broadly -- so the bullying signal should fade once adversity is accounted for.
 15. Paper 3 puts the three predictions to one test.
 
@@ -179,7 +180,7 @@ Time slot: 5:00 -- 5:55, ~85 words
 
 1. Here's how the search ran.
 2. Six databases.
-3. Thirteen years of published prevention studies.
+3. Thiradolescent years of published prevention studies.
 4. The first pull turned up nearly eight thousand papers.
 
 5. Two reviewers, working independently, read every abstract.
@@ -204,7 +205,7 @@ Time slot: 5:55 -- 6:40, ~95 words
 
 1. Three.
 2. That's the answer.
-3. After thirteen years and nearly eight thousand papers, only three rigorous trials have ever measured both.
+3. After thiradolescent years and nearly eight thousand papers, only three rigorous trials have ever measured both.
 
 4. Together they enrolled almost eighty thousand students.
 5. All in North America.
@@ -467,7 +468,7 @@ Time slot: 22:25 -- 24:40, ~18 words
 
 Time slot: 24:40 -- 25:10, ~29 words
 
-1. What makes some teens turn to opioids -- specifically -- when others turn to alcohol, marijuana, or nothing at all?
+1. What makes some adolescents turn to opioids -- specifically -- when others turn to alcohol, marijuana, or nothing at all?
 2. That's Paper 3's question.
 
 ***BRIDGE: "And why the answer matters."***
@@ -478,10 +479,10 @@ Time slot: 24:40 -- 25:10, ~29 words
 Time slot: 25:10 -- 25:55, ~100 words
 
 1. Here's why the question is harder than it sounds.
-2. Look at any teen who misuses opioids and you'll see risks across the board -- risks at school, risks at home, risks in the neighborhood, risks in their own minds.
+2. Look at any adolescent who misuses opioids and you'll see risks across the board -- risks at school, risks at home, risks in the neighborhood, risks in their own minds.
 3. You'd be tempted to say "all of those cause opioid misuse."
 
-4. But the same risks show up in teens who drink, smoke marijuana, or use other drugs.
+4. But the same risks show up in adolescents who drink, smoke marijuana, or use other drugs.
 5. So a list of risks doesn't actually tell us what's special about opioids.
 6. To target the right thing, prevention has to know which risks point to opioids in particular.
 
@@ -492,21 +493,21 @@ Time slot: 25:10 -- 25:55, ~100 words
 
 Time slot: 25:55 -- 27:10, ~149 words
 
-1. Three different ideas about why some teens turn to opioids.
+1. Three different ideas about why some adolescents turn to opioids.
 2. Each idea expects to see a different pattern in the data.
 
 3. Idea one.
-4. Some teens just take risks -- they try anything.
+4. Some adolescents just take risks -- they try anything.
 5. If that's the main story, opioids should rise alongside drinking, marijuana, smoking, everything.
 6. Across the board.
 
 7. Idea two.
-8. Some teens turn to opioids specifically when they're hurting emotionally -- like from being bullied.
+8. Some adolescents turn to opioids specifically when they're hurting emotionally -- like from being bullied.
 9. If that's the story, bullying should show up linked to opioids and nothing else.
 
 10. Idea three.
 11. It's not opioids in particular -- it's just hard lives.
-12. Family stress, sexual victimization, unsafe neighborhoods -- they all push teens toward many kinds of substances.
+12. Family stress, sexual victimization, unsafe neighborhoods -- they all push adolescents toward many kinds of substances.
 13. If that's right, the bullying link from idea two should fade once we look at the whole picture.
 
 14. These three ideas aren't mutually exclusive.
@@ -525,7 +526,7 @@ Time slot: 27:10 -- 28:10, ~160 words
 3. About one in eight told the survey they had misused a prescription opioid at some point.
 
 4. That number sits inside a bigger picture.
-5. Recent research estimates that more than 80 percent of teen opioid misuse traces back to hard experiences earlier in life -- family struggles, unsafe neighborhoods, and other forms of life hardship.
+5. Recent research estimates that more than 80 percent of adolescent opioid misuse traces back to hard experiences earlier in life -- family struggles, unsafe neighborhoods, and other forms of life hardship.
 6. That's the size of the problem we're trying to target.
 
 7. A couple of design notes.
@@ -548,7 +549,7 @@ Time slot: 28:10 -- 29:25, ~131 words
 
 5. Each measure is built from a small set of survey questions.
 6. Before we used any of them, we checked one thing: do the questions in each measure hang together?
-7. If a teen says yes to one, do they tend to say yes to the others?
+7. If a adolescent says yes to one, do they tend to say yes to the others?
 8. For most measures the answer was a clean yes.
 
 9. One measure scored lower -- community safety.
@@ -585,7 +586,7 @@ Time slot: 29:25 -- 30:55, ~205 words
 16. The opioid-specific signal is real.
 17. The individual interactions then tell us which experiences and how much.
 
-***BRIDGE: "And how much of each link is just teens who use a lot."***
+***BRIDGE: "And how much of each link is just adolescents who use a lot."***
 
 
 **Slide 29 -- KHB decomposition**
@@ -594,11 +595,11 @@ Time slot: 30:55 -- 32:10, ~185 words
 
 1. Step one -- the follow-up question.
 2. The previous slide showed bullying links to opioids more than to other substances.
-3. But that raises one more question: is the link really about opioids, or is it just that bullied teens use a lot of substances in general, and opioids come along for the ride?
+3. But that raises one more question: is the link really about opioids, or is it just that bullied adolescents use a lot of substances in general, and opioids come along for the ride?
 
 4. Step two -- we split each link into two parts.
 5. The direct part is bullying to opioids through some other path, most likely emotional pain.
-6. The indirect part is bullying makes a teen use a lot of substances, and one of those happens to be opioids.
+6. The indirect part is bullying makes a adolescent use a lot of substances, and one of those happens to be opioids.
 7. Total equals direct plus indirect.
 
 8. Step three -- the answer for bullying.
@@ -619,14 +620,14 @@ Time slot: 30:55 -- 32:10, ~185 words
 Time slot: 32:10 -- 34:55, ~216 words
 
 1. Here's the headline.
-2. Teens who were bullied in the past year were nearly 50 percent more likely to misuse opioids than teens who weren't.
+2. Teens who were bullied in the past year were nearly 50 percent more likely to misuse opioids than adolescents who weren't.
 
 3. And here's what makes it sharp.
 4. Bullying links to opioids and only opioids.
 5. Across alcohol, marijuana, cigarettes, and cocaine -- no detectable link.
 6. None of them.
 
-7. Could this just be teens who use lots of substances in general? No. Only about 10 percent of the bullying-opioid link runs through that.
+7. Could this just be adolescents who use lots of substances in general? No. Only about 10 percent of the bullying-opioid link runs through that.
 8. The other 90 percent goes through some other path.
 
 9. How sure are we?
@@ -635,7 +636,7 @@ Time slot: 32:10 -- 34:55, ~216 words
 
 12. And here's what brain science says about that other path.
 13. Being rejected by your peers activates the same circuits in your brain that process physical pain -- the very circuits that opioids act on.
-14. So when a bullied teen reaches for an opioid, they may literally be reaching for relief from social pain.
+14. So when a bullied adolescent reaches for an opioid, they may literally be reaching for relief from social pain.
 15. The chemistry lines up.
 
 16. That isn't generic "drugs are bad" territory.
@@ -650,7 +651,7 @@ Time slot: 32:10 -- 34:55, ~216 words
 Time slot: 34:55 -- 36:25, ~196 words
 
 1. Suicidal thinking shows a related but different pattern.
-2. It's strongly linked to opioids -- teens with recent suicidal thoughts are about 6 percentage points more likely to misuse opioids.
+2. It's strongly linked to opioids -- adolescents with recent suicidal thoughts are about 6 percentage points more likely to misuse opioids.
 3. It's also linked to marijuana, and a little to cigarettes and cocaine.
 4. But not to alcohol.
 
@@ -678,55 +679,63 @@ Time slot: 34:55 -- 36:25, ~196 words
 
 **Slide 32 -- Subgroup patterns + Paper 3 contribution**
 
-Time slot: 36:25 -- 38:55, ~280 words
+Time slot: 36:25 -- 38:10, ~181 words
 
 1. The patterns aren't the same for every group.
-2. Look at the Latino teens.
+2. Look at the Latino adolescents.
 3. About sixty-five percent show risk-taking.
 4. Forty-seven percent also show distress.
 5. And forty-two percent show all three at once -- risk-taking, distress, and life hardship together.
 6. That's almost everyone in the same cluster.
 7. It's consistent with bigger forces like discrimination and economic struggle shaping risk.
 
-8. Among white teens, risk-taking and distress show up at similar rates, but the hardship layer is smaller -- only thirty-nine percent fall in all three.
+8. Among white adolescents, risk-taking and distress show up at similar rates, but the hardship layer is smaller -- only thirty-nine percent fall in all three.
 9. That's consistent with opioids reaching them through prescriptions and family medicine cabinets, regardless of how hard their life is.
 
-10. Among Black teens, opioid misuse is less common overall.
+10. Among Black adolescents, opioid misuse is less common overall.
 11. The all-three overlap is the smallest -- about twenty-seven percent.
 12. When it does show up, distress is what's pulling the link.
-13. And among teens of multiple races, risk-taking is lower, but distress and hardship cluster together at about thirty-seven percent.
+13. And among adolescents of multiple races, risk-taking is lower, but distress and hardship cluster together at about thirty-seven percent.
 
-14. Here's what Paper 3 leaves on the table.
-15. Bullying points to opioid risk in a way that nothing else does.
-16. That's something a school nurse, a pediatrician, or a parent could actually use.
-17. Where bullying shows up, ask about opioid misuse.
-18. Where opioid misuse shows up, ask about bullying and about unmet mental-health needs.
-19. Not generic "say no to drugs."
+14. So what shows up around opioid misuse looks different across communities.
+15. That means prevention needs group-specific targeting, not a one-size-fits-all national protocol.
 
-20. And the honest limits.
-21. Our data is one snapshot in time.
-22. So we can describe these patterns clearly.
-23. We can't prove what came first.
-24. About a third of students weren't asked the family questions, by survey design.
-25. We don't have data on physical pain or actual medical prescriptions.
-26. None of these change the headline.
-27. They're the next questions to answer.
+***BRIDGE: "What Paper 3 contributes -- and what it doesn't."***
+
+
+**Slide 33 -- Paper 3 contribution + limits**
+
+Time slot: 38:10 -- 39:10, ~136 words
+
+1. Here's what Paper 3 contributes.
+2. Bullying points to opioid risk in a way that nothing else does.
+3. That's something a school nurse, a pediatrician, or a parent could actually use.
+4. Where bullying shows up, ask about opioid misuse.
+5. Where opioid misuse shows up, ask about bullying and about unmet mental-health needs.
+6. Not generic "say no to drugs." And the patterns across communities mean prevention needs group-specific targeting, not a one-size-fits-all protocol.
+
+7. And the honest limits.
+8. One snapshot in time -- we describe patterns clearly, but we can't prove what came first.
+9. About a third of students weren't asked the family questions, by survey design.
+10. We don't have data on physical pain or medical prescriptions.
+11. None of these change the headline.
+12. They're the next questions to answer.
 
 ***BRIDGE: "Aqui les comparto un resumen, en espanol, del tercer estudio."***
 
 
-**Slide 33 -- Resumen en espanol -- Paper 3**
+**Slide 34 -- Resumen en espanol -- Paper 3**
 
-Time slot: 38:55 -- 41:10, ~15 words
+Time slot: 39:10 -- 41:25, ~15 words
 
 1. "Aqui les comparto un resumen, en espanol, del tercer estudio."
 
 ***BRIDGE: "Here's the claim, now backed."***
 
 
-**Slide 34 -- Thesis landed**
+**Slide 35 -- Thesis landed**
 
-Time slot: 41:10 -- 42:25, ~129 words
+Time slot: 41:25 -- 42:40, ~129 words
 
 1. Here's the claim, now backed by evidence.
 2. Effective adolescent prevention is both integrated across co-occurring problems, and specific to what drives each of them.
@@ -743,9 +752,9 @@ Time slot: 41:10 -- 42:25, ~129 words
 ***BRIDGE: "How this work continues."***
 
 
-**Slide 35 -- THRIVE-Belize: the next study**
+**Slide 36 -- THRIVE-Belize: the next study**
 
-Time slot: 42:25 -- 44:00, ~148 words
+Time slot: 42:40 -- 44:15, ~148 words
 
 1. Where this work goes next is THRIVE-Belize.
 2. A multi-component life-skills curriculum at Toledo Community College, in Punta Gorda, southern Belize.
@@ -767,9 +776,9 @@ Time slot: 42:25 -- 44:00, ~148 words
 ***BRIDGE: "Thank you, and acknowledgments."***
 
 
-**Slide 36 -- Thank you and acknowledgments**
+**Slide 37 -- Thank you and acknowledgments**
 
-Time slot: 44:00 -- 45:00, ~103 words
+Time slot: 44:15 -- 45:15, ~103 words
 
 1. Aqui termino.
 2. Quiero agradecer profundamente a mi mama, a mi familia y a mis amigos -- por todo su amor y su paciencia a lo largo de estos siete anos.
