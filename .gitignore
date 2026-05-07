@@ -1,0 +1,77 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python utilities
+__pycache__/
+*.pyc
+
+# Local Claude / cache
+.claude/
+.spotify_cache
+
+# Word temp files
+~$*.docx
+~$*.doc
+~WRL*.tmp
+
+# All working scripts and audit artifacts (anything starting with underscore)
+_*.py
+_*.md
+_*.txt
+_*.svg
+_*.html
+_*/
+
+# Internal review feedback (private)
+Comments_v*.md
+Comments_v*.docx
+
+# Internal rebuild plans (private)
+Index2_*.md
+Index3_*.md
+Index2_Diff_Log.md
+
+# Old / superseded files
+index2.html
+index4/
+Speaker_Notes_Booklet_v9.md
+dissertation_prompt_v2.Rmd
+dissertation_presentation_v1.md
+
+# Auto-generated from .md (regenerate via knit)
+Speaker_Notes_Booklet.docx
+
+# Slide-specific Word exports (working files)
+Slides.docx
+Slide*.docx
+
+# NotebookLM input scripts and assets (used to generate the Spanish videos; videos are committed, scripts are not)
+NotebookLM_*.md
+NotebookLM_PNG_Assets/
+NotebookLM_PNG_Assets_Paper3/
+Stage_Transition_*.md
+
+# Companion documents (not part of the deck)
+Defense_Stats_Companion_*.docx
+Paper3_ModelsExplanation.docx
+canonical_methods_references.docx
+PresenterView_HowTo.*
+Closing_Acknowledgments.md
+
+# Source verification log (cites local-only dissertation extractions)
+CONTENT_SOURCES.md
+
+# Project-internal instructions (not for public repo)
+CLAUDE.md
+
+# Source papers
+papers/
