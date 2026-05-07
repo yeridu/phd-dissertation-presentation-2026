@@ -3627,66 +3627,76 @@ body.presenter-view .appx-home { display: none !important; }
   <div class="anim d3" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 28px; margin-bottom: 18px; font-family: var(--f-mono); font-size: 0.95rem; color: var(--text-mid);">
     <span><span style="color: var(--amber-dim); font-weight: 700; margin-right: 6px;">@</span>mariomorales@arizona.edu</span>
     <span><span style="color: var(--amber-dim); font-weight: 700; margin-right: 6px;">github</span>github.com/yeridu</span>
-    <span><span style="color: var(--amber-dim); font-weight: 700; margin-right: 6px;">web</span>[YOUR WEBSITE -- please provide]</span>
+    <span><span style="color: var(--amber-dim); font-weight: 700; margin-right: 6px;">web</span>yeridu.com</span>
   </div>
 
-  <!-- Acknowledgment grid -->
-  <div class="anim d4" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px 36px; max-width: 1080px; margin: 0 auto 18px; padding: 0 24px;">
+  <!-- Acknowledgment two-column layout -->
+  <div class="anim d4" style="display: grid; grid-template-columns: 1.15fr 1fr; gap: 18px 44px; max-width: 1100px; margin: 0 auto 16px; padding: 0 24px;">
 
-    <div>
-      <div style="font-family: var(--f-display); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 8px;">Dissertation committee</div>
-      <p style="margin: 0; font-size: 1.0rem; line-height: 1.55; color: var(--text);">
+    <!-- LEFT COLUMN: committee + mentors + collaborators, then faculty/staff at bottom -->
+    <div style="display: flex; flex-direction: column;">
+      <div style="font-family: var(--f-display); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 8px;">Dissertation committee, mentors, and collaborators</div>
+      <p style="margin: 0 0 10px; font-size: 0.98rem; line-height: 1.6; color: var(--text);">
         <strong>Scott C. Carvajal</strong>, PhD, MPH &mdash; chair &amp; dissertation director<br>
         <strong>Patricia L. Haynes</strong>, PhD<br>
         <strong>Maeve E. Wallace</strong>, PhD<br>
-        <strong>Ann L. Coker</strong>, PhD, MPH
+        <strong>Ann L. Coker</strong>, PhD, MPH<br>
+        <strong>Javier Osorio</strong>, PhD<br>
+        <strong>Charles Gomez</strong>, PhD<br>
+        <strong>Jennifer S. De La Rosa</strong>, PhD<br>
+        <strong>Alex Braithwaite</strong>, PhD<br>
+        <strong>Velia Nu&ntilde;o</strong>, PhD<br>
+        <strong>Mary P. Koss</strong>, PhD
+      </p>
+      <p style="margin: 6px 0 0; font-size: 0.92rem; line-height: 1.5; color: var(--text-mid); font-style: italic;">
+        Faculty and staff at HBHP, AzPRC, and CCPA.
       </p>
     </div>
 
-    <div>
-      <div style="font-family: var(--f-display); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 8px;">Mentors and collaborators</div>
-      <p style="margin: 0; font-size: 1.0rem; line-height: 1.55; color: var(--text);">
-        <strong>Jennifer S. De La Rosa</strong>, PhD &mdash; CCPA, opioid analyses<br>
-        <strong>Javier Osorio</strong>, PhD &middot; <strong>Charles Gomez</strong>, PhD<br>
-        <strong>Mary P. Koss</strong>, PhD &middot; <strong>Alex Braithwaite</strong>, PhD &middot; <strong>Velia Nu&ntilde;o</strong>, PhD<br>
-        Faculty and staff at HBHP, AzPRC, and CCPA
-      </p>
-    </div>
+    <!-- RIGHT COLUMN: family and friends at top, logos at bottom -->
+    <div style="display: flex; flex-direction: column; justify-content: space-between;">
+      <div>
+        <div style="font-family: var(--f-display); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 8px;">Family and friends</div>
+        <p style="margin: 0; font-size: 0.98rem; line-height: 1.6; color: var(--text);">
+          To my <strong>mother</strong>, who walked every step of this with me, and to my family and friends &mdash; for the love, the patience, and the encouragement.
+        </p>
+      </div>
 
-    <div>
-      <div style="font-family: var(--f-display); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 8px;">Family and friends</div>
-      <p style="margin: 0; font-size: 1.0rem; line-height: 1.55; color: var(--text);">
-        To my <strong>mother</strong>, who walked every step of this with me, and to my family and friends &mdash; for the love, the patience, and the encouragement.
-      </p>
-    </div>
+      <!-- Institutional logos at bottom of right column -->
+      <div style="display: flex; align-items: center; justify-content: flex-start; gap: 32px; margin-top: 24px; padding-top: 20px; border-top: 1px solid var(--border);">
 
-    <div>
-      <div style="font-family: var(--f-display); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 8px;">Institutional support</div>
-      <p style="margin: 0; font-size: 1.0rem; line-height: 1.55; color: var(--text);">
-        The University of Arizona &mdash; seven years of doctoral funding and a home for this work. Funders include AzAHEC, GPSC, ICPSR, SICSS-IAS, the Tinker Foundation, NWU Global Health Institute Scholars, and CCPA.
-      </p>
+        <!-- University of Arizona: Block A + wordmark -->
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <svg viewBox="0 0 60 64" style="width: 44px; height: 48px;" aria-label="University of Arizona Block A">
+            <!-- Cardinal red block A approximation -->
+            <path d="M 30 4 L 6 60 L 18 60 L 22 50 L 38 50 L 42 60 L 54 60 Z M 25 40 L 30 28 L 35 40 Z" fill="#AB0520"/>
+            <!-- Navy bar inside the A -->
+            <rect x="22" y="44" width="16" height="3" fill="#0C234B"/>
+          </svg>
+          <div style="line-height: 1.05;">
+            <div style="font-family: var(--f-display); font-size: 0.62rem; font-weight: 700; color: #AB0520; letter-spacing: 0.16em;">THE UNIVERSITY</div>
+            <div style="font-family: var(--f-display); font-size: 0.92rem; font-weight: 800; color: #AB0520; letter-spacing: 0.04em;">OF ARIZONA</div>
+            <div style="font-family: var(--f-display); font-size: 0.56rem; font-weight: 600; color: var(--text-mid); letter-spacing: 0.06em; margin-top: 2px;">Established 1885</div>
+          </div>
+        </div>
+
+        <!-- MEZCOPH wordmark -->
+        <div style="display: flex; align-items: center; gap: 10px; padding-left: 18px; border-left: 1px solid var(--border);">
+          <div style="line-height: 1.05;">
+            <div style="font-family: var(--f-display); font-size: 1.05rem; font-weight: 800; color: #0C234B; letter-spacing: 0.08em;">MEZCOPH</div>
+            <div style="font-family: var(--f-display); font-size: 0.56rem; font-weight: 600; color: var(--text-mid); letter-spacing: 0.04em; margin-top: 3px; max-width: 180px;">Mel and Enid Zuckerman College of Public Health</div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
   <!-- Land acknowledgment -->
-  <p class="anim d5" style="max-width: 80ch; margin: 0 auto 18px; padding: 10px 18px; font-size: 0.84rem; color: var(--text-dim); font-style: italic; text-align: center; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+  <p class="anim d5" style="max-width: 84ch; margin: 8px auto 0; padding: 10px 18px; font-size: 0.82rem; color: var(--text-dim); font-style: italic; text-align: center; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
     The University of Arizona sits on the land and territories of the O'odham and the Yaqui, among the 22 federally recognized tribes of Arizona.
   </p>
 
-  <!-- Institutional wordmark bar (text-based; replace with PNG/SVG if desired) -->
-  <div class="anim d6" style="display: flex; justify-content: center; align-items: center; gap: 48px; margin-top: 4px;">
-    <div style="text-align: center;">
-      <div style="font-family: var(--f-display); font-size: 0.92rem; font-weight: 800; color: #AB0520; letter-spacing: 0.06em; line-height: 1.1;">UNIVERSITY</div>
-      <div style="font-family: var(--f-display); font-size: 0.92rem; font-weight: 800; color: #AB0520; letter-spacing: 0.06em; line-height: 1.1;">OF ARIZONA</div>
-    </div>
-    <div style="width: 1px; height: 36px; background: var(--border);"></div>
-    <div style="text-align: center;">
-      <div style="font-family: var(--f-display); font-size: 1.1rem; font-weight: 800; color: #0C234B; letter-spacing: 0.10em; line-height: 1.0;">MEZCOPH</div>
-      <div style="font-family: var(--f-display); font-size: 0.62rem; font-weight: 600; color: var(--text-mid); letter-spacing: 0.04em; margin-top: 3px;">Mel and Enid Zuckerman College of Public Health</div>
-    </div>
-  </div>
-
-  <p class="anim d7" style="margin: 22px auto 0; max-width: 64ch; font-family: var(--f-display); font-size: 0.95rem; color: var(--amber-dim); font-style: italic; text-align: center;">
+  <p class="anim d7" style="margin: 18px auto 0; max-width: 64ch; font-family: var(--f-display); font-size: 0.95rem; color: var(--amber-dim); font-style: italic; text-align: center;">
     Questions welcome.
   </p>
 
