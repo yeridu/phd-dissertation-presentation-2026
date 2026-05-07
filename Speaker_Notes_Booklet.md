@@ -57,7 +57,7 @@ Total target: about 37 minutes of speaking, leaving roughly 13 minutes for commi
 - Slide 32 -- Subgroup patterns + Paper 3 contribution
 - Slide 33 -- Resumen en espanol -- Paper 3
 - Slide 34 -- Thesis landed
-- Slide 35 -- Three-to-five year program
+- Slide 35 -- THRIVE-Belize: the next study
 - Slide 36 -- Thank you and acknowledgments
 
 
@@ -743,34 +743,33 @@ Time slot: 41:10 -- 42:25, ~129 words
 ***BRIDGE: "How this work continues."***
 
 
-**Slide 35 -- Three-to-five year program**
+**Slide 35 -- THRIVE-Belize: the next study**
 
-Time slot: 42:25 -- 43:40, ~182 words
+Time slot: 42:25 -- 44:00, ~148 words
 
-1. Two projects pick up where this dissertation leaves off.
-2. Both are already underway.
+1. Where this work goes next is THRIVE-Belize.
+2. A multi-component life-skills curriculum at Toledo Community College, in Punta Gorda, southern Belize.
+3. About seven hundred students.
+4. Predominantly Maya and Mestizo communities.
+5. Co-designed with the school and the surrounding community.
 
-3. First, with Dr. Maeve Wallace at the University of Arizona.
-4. We're studying intimate-partner violence in deaths that happen during pregnancy or shortly after -- the cohort is 1,391 women who died by homicide, suicide, or overdose between 2019 and 2023.
+6. It picks up exactly where these three papers leave off.
+7. Paper 1 found only three rigorous trials worldwide on the integrated outcome.
+8. THRIVE-Belize would be the fourth, and the first outside North America.
+9. Paper 2 taught us that programs like this need years before the effect surfaces.
+10. So we're not rushing.
+11. Phase one tests whether the program fits the community before we ever propose a full trial.
+12. Paper 3 said the path forward is integrated and specific.
+13. THRIVE-Belize is exactly that -- multi-component, but with separate modules for distress, hardship, and risk-taking.
 
-5. The challenge: the official records often don't say when intimate-partner violence was involved -- they miss it close to half the time.
-6. So we're building a tool that reads the death-investigation reports and flags those cases.
-7. We're also looking at the 144 cases involving teens.
-8. This is active analytical work right now.
-
-9. Second, THRIVE-Belize, with Dr. Gabriela Valdez and the U of Arizona Global Health Institute.
-10. A life-skills curriculum at a high school in Punta Gorda, Belize, co-designed with students and teachers there.
-11. The first goal isn't a finished trial.
-12. It's to test whether the program fits the community.
-13. That answer decides whether a full trial is the next step.
-14. And it directly addresses one of this dissertation's biggest limits: every paper used U.S. data.
+14. With Dr. Gabriela Valdez at UA Global Health Institute, and Aimee Slagle as Research Consultant.
 
 ***BRIDGE: "Thank you, and acknowledgments."***
 
 
 **Slide 36 -- Thank you and acknowledgments**
 
-Time slot: 43:40 -- 44:40, ~103 words
+Time slot: 44:00 -- 45:00, ~103 words
 
 1. Aqui termino.
 2. Quiero agradecer profundamente a mi mama, a mi familia y a mis amigos -- por todo su amor y su paciencia a lo largo de estos siete anos.
