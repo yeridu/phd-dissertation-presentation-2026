@@ -58,6 +58,7 @@ Total target: about 37 minutes of speaking, leaving roughly 13 minutes for commi
 - Slide 33 -- Resumen en espanol -- Paper 3
 - Slide 34 -- Thesis landed
 - Slide 35 -- Three-to-five year program
+- Slide 36 -- Thank you and acknowledgments
 
 
 **Slide 1 -- The co-occurrence paradox**
@@ -764,7 +765,25 @@ Time slot: 42:25 -- 43:40, ~182 words
 13. That answer decides whether a full trial is the next step.
 14. And it directly addresses one of this dissertation's biggest limits: every paper used U.S. data.
 
-***BRIDGE: "Thank you. Questions welcome."***
+***BRIDGE: "Thank you, and acknowledgments."***
+
+
+**Slide 36 -- Thank you and acknowledgments**
+
+Time slot: 43:40 -- 44:40, ~103 words
+
+1. Aqui termino.
+2. Quiero agradecer profundamente a mi mama, a mi familia y a mis amigos -- por todo su amor y su paciencia a lo largo de estos siete anos.
+
+3. To my committee -- Dr. Carvajal, Dr. Haynes, Dr. Wallace, and Dr. Coker -- for your guidance, your rigor, and your generosity.
+4. To Dr. De La Rosa for the mentorship at CCPA.
+5. To my colleagues at HBHP and at the Arizona Prevention Research Center.
+6. And to the University of Arizona, which has been my home for seven years.
+
+7. Thank you.
+8. I welcome your questions.
+
+***BRIDGE: "[Stand. Smile. Wait for the chair to open Q-and-A.]"***
 
 
 **End of speaker notes**
