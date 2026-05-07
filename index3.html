@@ -3540,54 +3540,61 @@ body.presenter-view .appx-home { display: none !important; }
   <h2 class="h-slide anim d1" style="margin-bottom: 0;">THRIVE-Belize &mdash; the next study, in southern Belize.</h2>
   <div class="rule anim d2" style="margin: 4px auto;"></div>
 
-  <!-- Compact visual band: campus image + framing card, 200px tall -->
-  <div class="anim d3" style="display: grid; grid-template-columns: 1.5fr 1fr; gap: 16px; height: 200px; margin: 10px auto 14px; max-width: 1180px;">
+  <!-- Single flex-column wrapper forces strict top-to-bottom stacking with explicit gap.
+       Order: visual band -> caption -> three cards -> bridge. -->
+  <div style="display: flex; flex-direction: column; gap: 18px; max-width: 1180px; margin: 14px auto 0; width: 100%;">
 
-    <img src="tcc_campus.jpg" alt="Toledo Community College campus, Punta Gorda, Belize." style="width: 100%; height: 100%; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.10);">
-
-    <div style="background: var(--surface-2); border-left: 4px solid var(--amber); padding: 14px 18px; border-radius: 0 6px 6px 0; display: flex; flex-direction: column; justify-content: center;">
-      <div style="font-family: var(--f-display); font-size: 0.7rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 6px;">What THRIVE-Belize is</div>
-      <p style="margin: 0; font-size: 0.92rem; line-height: 1.5; color: var(--text);">
-        A multi-component, activity-based <strong>life-skills curriculum</strong> co-designed with the school and the Toledo District community. Phase I is a single-school feasibility trial &mdash; <em>before</em> we ever propose a full trial.
-      </p>
+    <!-- 1. Visual band: campus image + framing card -->
+    <div class="anim d3" style="display: grid; grid-template-columns: 1.5fr 1fr; gap: 16px; align-items: stretch;">
+      <div style="height: 190px; overflow: hidden; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.10);">
+        <img src="tcc_campus.jpg" alt="Toledo Community College campus, Punta Gorda, Belize." style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      </div>
+      <div style="background: var(--surface-2); border-left: 4px solid var(--amber); padding: 14px 18px; border-radius: 0 6px 6px 0; display: flex; flex-direction: column; justify-content: center;">
+        <div style="font-family: var(--f-display); font-size: 0.7rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--amber-dim); margin-bottom: 6px;">What THRIVE-Belize is</div>
+        <p style="margin: 0; font-size: 0.92rem; line-height: 1.5; color: var(--text);">
+          A multi-component, activity-based <strong>life-skills curriculum</strong> co-designed with the school and the Toledo District community. Phase I is a single-school feasibility trial &mdash; <em>before</em> we ever propose a full trial.
+        </p>
+      </div>
     </div>
+
+    <!-- 2. Caption (BELOW the visual band) -->
+    <p class="anim d4" style="margin: 0; font-size: 0.78rem; color: var(--text-dim); text-align: center; font-style: italic; line-height: 1.5;">
+      Toledo Community College, Punta Gorda &middot; ~700 students, Forms 1&ndash;4 &middot; predominantly Maya and Mestizo communities &middot; with <strong style="font-style: normal;">Dr. Gabriela Valdez</strong> (Co-PI, UA Global Health Institute) and <strong style="font-style: normal;">Aimee Slagle, MPH</strong> (Research Consultant) &middot; TCC, summer 2025 &mdash; Tinker Field Research Grant.
+    </p>
+
+    <!-- 3. Three Paper-mapping cards (BELOW the caption) -->
+    <div class="grid grid-3 anim d5" style="gap: 14px; margin: 0;">
+
+      <div class="card amber" style="padding: 14px 16px;">
+        <div class="card-label" style="font-size: 0.68rem;">From Paper 1</div>
+        <div class="card-title" style="font-size: 1.0rem; margin-top: 4px;">Closes the integration-evidence gap.</div>
+        <div class="card-body" style="font-size: 0.88rem; line-height: 1.5; margin-top: 8px;">
+          Seven modules cover emotional regulation, healthy relationships, sexual and reproductive health, mental and physical health, substance use, masculinities, and environmental health &mdash; the integrated outcome Paper 1 found in only three trials worldwide. <strong>The first such trial outside North America.</strong>
+        </div>
+      </div>
+
+      <div class="card teal" style="padding: 14px 16px;">
+        <div class="card-label" style="color: var(--teal); font-size: 0.68rem;">From Paper 2</div>
+        <div class="card-title" style="font-size: 1.0rem; margin-top: 4px;">Honors the four-year lesson.</div>
+        <div class="card-body" style="font-size: 0.88rem; line-height: 1.5; margin-top: 8px;">
+          We're not rushing to a definitive trial. <strong>Phase I tests fit</strong> &mdash; acceptability, appropriateness, feasibility, adoption, and safety &mdash; before any pilot. The Theory of Change positions <strong>school climate</strong> as the mediator: a norm-level mechanism, like the one Paper 2 documented.
+        </div>
+      </div>
+
+      <div class="card" style="padding: 14px 16px; background: rgba(194,106,10,0.10); border: 2px solid var(--amber); border-left: 6px solid var(--amber);">
+        <div class="card-label" style="color: var(--amber-dim); font-size: 0.68rem;">From Paper 3</div>
+        <div class="card-title" style="font-size: 1.0rem; margin-top: 4px;">Tests integration-and-specificity in practice.</div>
+        <div class="card-body" style="font-size: 0.88rem; line-height: 1.5; margin-top: 8px;">
+          Multi-component <strong>and</strong> specific. Distress, hardship, and risk-taking each get their own module. The opening question Paper 3 posed &mdash; <em>which adversities point to which behaviors?</em> &mdash; becomes a curriculum the field can actually deliver.
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. Bridge -->
+    <p class="anim d6" style="margin: 8px auto 0; max-width: 64ch; font-family: var(--f-display); font-size: 0.95rem; color: var(--amber-dim); font-style: italic; text-align: center;">
+      Next: thank you, and acknowledgments.
+    </p>
   </div>
-
-  <p class="anim d3" style="margin: 0 auto 22px; max-width: 1180px; font-size: 0.74rem; color: var(--text-dim); text-align: center; font-style: italic; line-height: 1.5;">
-    Toledo Community College, Punta Gorda &middot; ~700 students, Forms 1&ndash;4 &middot; predominantly Maya and Mestizo communities &middot; with <strong style="font-style: normal;">Dr. Gabriela Valdez</strong> (Co-PI, UA Global Health Institute) and <strong style="font-style: normal;">Aimee Slagle, MPH</strong> (Research Consultant) &middot; TCC, summer 2025 &mdash; Tinker Field Research Grant.
-  </p>
-
-  <!-- Three-card row: what THRIVE-Belize brings, mapped to each paper -->
-  <div class="grid grid-3 anim d4" style="gap: 14px; max-width: 1180px; margin: 22px auto 0;">
-
-    <div class="card amber" style="padding: 14px 16px;">
-      <div class="card-label" style="font-size: 0.68rem;">From Paper 1</div>
-      <div class="card-title" style="font-size: 1.0rem; margin-top: 4px;">Closes the integration-evidence gap.</div>
-      <div class="card-body" style="font-size: 0.88rem; line-height: 1.5; margin-top: 8px;">
-        Seven modules cover emotional regulation, healthy relationships, sexual and reproductive health, mental and physical health, substance use, masculinities, and environmental health &mdash; the integrated outcome Paper 1 found in only three trials worldwide. <strong>The first such trial outside North America.</strong>
-      </div>
-    </div>
-
-    <div class="card teal" style="padding: 14px 16px;">
-      <div class="card-label" style="color: var(--teal); font-size: 0.68rem;">From Paper 2</div>
-      <div class="card-title" style="font-size: 1.0rem; margin-top: 4px;">Honors the four-year lesson.</div>
-      <div class="card-body" style="font-size: 0.88rem; line-height: 1.5; margin-top: 8px;">
-        We're not rushing to a definitive trial. <strong>Phase I tests fit</strong> &mdash; acceptability, appropriateness, feasibility, adoption, and safety &mdash; before any pilot. The Theory of Change positions <strong>school climate</strong> as the mediator: a norm-level mechanism, like the one Paper 2 documented.
-      </div>
-    </div>
-
-    <div class="card" style="padding: 14px 16px; background: rgba(194,106,10,0.10); border: 2px solid var(--amber); border-left: 6px solid var(--amber);">
-      <div class="card-label" style="color: var(--amber-dim); font-size: 0.68rem;">From Paper 3</div>
-      <div class="card-title" style="font-size: 1.0rem; margin-top: 4px;">Tests integration-and-specificity in practice.</div>
-      <div class="card-body" style="font-size: 0.88rem; line-height: 1.5; margin-top: 8px;">
-        Multi-component <strong>and</strong> specific. Distress, hardship, and risk-taking each get their own module. The opening question Paper 3 posed &mdash; <em>which adversities point to which behaviors?</em> &mdash; becomes a curriculum the field can actually deliver.
-      </div>
-    </div>
-  </div>
-
-  <p class="anim d6" style="margin: 22px auto 0; max-width: 64ch; font-family: var(--f-display); font-size: 0.95rem; color: var(--amber-dim); font-style: italic; text-align: center;">
-    Next: thank you, and acknowledgments.
-  </p>
 
   <template class="s-note"><span class="n-time">42:40 &mdash; 44:15 &middot; ~148 words</span>
     <span class="n-say">Where this work goes next is THRIVE-Belize. A multi-component life-skills curriculum at Toledo Community College, in Punta Gorda, southern Belize. About seven hundred students. Predominantly Maya and Mestizo communities. Co-designed with the school and the surrounding community.</span>
