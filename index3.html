@@ -1756,7 +1756,7 @@ body.presenter-view .appx-home { display: none !important; }
 
 <section class="slide" data-id="13" data-section="gd" data-rung="institutional" data-title="Green Dot CONSORT design" style="padding-top: 48px;">
   <div class="eyebrow anim" style="margin-bottom: 4px;">Paper 2 &middot; design</div>
-  <h2 class="h-slide anim d1" style="max-width: 64ch; margin-bottom: 0;">26 Kentucky high schools, cluster-randomized 1:1, 2010&ndash;2014.</h2>
+  <h2 class="h-slide anim d1" style="max-width: 64ch; margin-bottom: 0;">The trial: 26 Kentucky high schools, four years, randomized.</h2>
   <div class="rule anim d2" style="margin: 4px auto;"></div>
 
   <div class="paper-grid anim d3" style="margin-top: 6px; align-items: start;">
@@ -1807,23 +1807,18 @@ body.presenter-view .appx-home { display: none !important; }
     </svg>
 
     <div>
-      <h3 class="h-mid" style="margin-bottom: 6px;">Design at a glance.</h3>
-      <ul class="body-text" style="padding-left: 22px;">
-        <li style="margin-bottom: 6px;">
-          <strong>Randomization:</strong> 13 rape-crisis centers each picked 2 matched schools; the 26 were randomized 1:1.
-        </li>
-        <li style="margin-bottom: 6px;">
-          <strong>Program delivery<sup class="cite">[1]</sup>:</strong> schoolwide talks from Spring 2010; from Spring 2011, popular-opinion-leader training (~12&ndash;15% of students, 5-hour curriculum).
-        </li>
-        <li style="margin-bottom: 6px;">
-          <strong>Consent:</strong> passive parental, active student. IRB-approved at University of Kentucky<sup class="cite">[2]</sup>.
-        </li>
-        <li>
-          <strong>Panel:</strong> 125 school-years (Control 61, Treatment 64); 74,693 student responses pooled for the AR-SAVB model.
-        </li>
-      </ul>
-      <p class="body-text sm" style="margin-top: 8px; color: var(--text-dim);">
-        ICC = 0.009 &mdash; the low between-school variance a school-level climate measure should produce.
+      <h3 class="h-mid" style="margin-bottom: 10px;">How it ran.</h3>
+      <p class="body-text" style="margin-bottom: 10px;">
+        It started with 46 Kentucky high schools. After excluding the smallest, 26 ended up in the analysis &mdash; <strong>13 randomly assigned to receive Green Dot, 13 kept as comparison</strong>.
+      </p>
+      <p class="body-text" style="margin-bottom: 10px;">
+        Students filled out an anonymous survey at the start, and once every year for four more years. Across all five waves, the analysis covers about <strong>16,500 students</strong>.
+      </p>
+      <p class="body-text" style="margin-bottom: 10px;">
+        Green Dot ran in two layers. School-wide talks reached every student. Starting the second year, about one in eight students went through a five-hour training to become the active bystanders inside their school.<sup class="cite">[1]</sup>
+      </p>
+      <p class="body-text sm" style="color: var(--text-dim);">
+        IRB-approved at the University of Kentucky.<sup class="cite">[2]</sup> Schools differed only slightly from each other on the outcome (ICC = 0.009) &mdash; exactly what a school-level norm measure should look like.
       </p>
     </div>
   </div>
@@ -1863,34 +1858,30 @@ body.presenter-view .appx-home { display: none !important; }
 
 <section class="slide" data-id="14" data-section="gd" data-rung="institutional" data-title="Hypotheses" style="padding-top: 48px;">
   <div class="eyebrow anim" style="margin-bottom: 4px;">Paper 2 &middot; what we test</div>
-  <h2 class="h-slide anim d1" style="margin-bottom: 0;">Three prespecified hypotheses. Three different modeling choices.</h2>
+  <h2 class="h-slide anim d1" style="margin-bottom: 0;">Three things we test. From the headline, down to the people inside the program.</h2>
   <div class="rule anim d2" style="margin: 4px auto;"></div>
 
   <div class="grid grid-3 anim d3" style="margin-top: 8px; gap: 14px;">
     <div class="card amber">
-      <div class="card-label">H1 &mdash; school-level</div>
-      <div class="card-title">AR-SAVB declines more in <strong>intervention schools (IS)</strong>.</div>
-      <div class="card-body" style="margin-top: 10px;">Tested with a school-level binomial GLMM with logit link, random intercept for school, and a prespecified joint Treatment&times;Year test.</div>
+      <div class="card-label">First test &middot; the headline</div>
+      <div class="card-title">Do Green Dot schools, as a whole, drop in victim-blaming attitudes more than comparison schools?</div>
+      <div class="card-body" style="margin-top: 10px;">If norm change is real at the school level, this is where it should show up first.</div>
     </div>
     <div class="card teal">
-      <div class="card-label">H2a &middot; H2b &mdash; school-level + mediation</div>
-      <div class="card-title"><strong>H2a:</strong> SUV and SUP decline more in IS. <strong>H2b:</strong> the SUV/SUP decline is mediated by the AR-SAVB shift in IS.</div>
-      <div class="card-body" style="margin-top: 10px;">Binomial GLMMs for the outcomes; school-level product-of-coefficients ecological mediation with baseline adjustment (25 clusters; ~20% power &mdash; flagged a priori).</div>
+      <div class="card-label">Second test &middot; behavior, and what carries it</div>
+      <div class="card-title">Do the actual sexual-violence behaviors drop too &mdash; and is the belief shift what carries that behavior change?</div>
+      <div class="card-body" style="margin-top: 10px;">A mediation question. We flag low statistical power up front, by design, since we inherited the trial.</div>
     </div>
     <div class="card coral">
-      <div class="card-label">H3 &mdash; individual-level</div>
-      <div class="card-title">Within IS, trained students have lower AR-SAVB than untrained.</div>
-      <div class="card-body" style="margin-top: 10px;">GEE Poisson with CR2 robust SEs<sup class="cite">[1]</sup> + IPTW. <strong>Explicitly framed as associational</strong> because training was not individually randomized.</div>
+      <div class="card-label">Third test &middot; inside the program</div>
+      <div class="card-title">Inside Green Dot schools, do students who actually went through the training look different from those who didn't?</div>
+      <div class="card-body" style="margin-top: 10px;">This one is correlation, not cause &mdash; students weren't randomly picked for the training. We flag that up front.<sup class="cite">[1]</sup></div>
     </div>
   </div>
 
-  <p class="body-text anim d4" style="margin-top: 10px; max-width: 84ch; color: var(--text-dim); font-size: 1.00rem;">
-    Match the model to the hypothesis. H3 is observational by design &mdash; flagged
-    "association, not causation" up front.
-  </p>
-
-  <p class="anim d5" style="margin: 10px auto 0; max-width: 96ch; font-family: var(--f-mono); font-size: 0.78rem; color: var(--text-dim); line-height: 1.5;">
-    <strong>Acronyms.</strong> IS = intervention schools. AR-SAVB = alcohol-related sexual-assault victim-blaming. SUV = substance-use-related sexual-violence victimization. SUP = substance-use-related sexual-violence perpetration. GLMM = generalized linear mixed model. GEE = generalized estimating equations. CR2 = bias-corrected cluster-robust variance. IPTW = inverse-probability-of-treatment weighting.
+  <p class="anim d5" style="margin: 14px auto 0; max-width: 100ch; font-family: var(--f-mono); font-size: 0.74rem; color: var(--text-dim); line-height: 1.55; padding-top: 10px; border-top: 1px dashed var(--border);">
+    <span style="font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; font-size: 0.66rem; color: var(--text-faint);">Method:</span>
+    First test &mdash; school-level binomial GLMM with random intercept for school, prespecified joint Treatment&times;Year test &middot; Second test &mdash; school-level GLMMs for SUV/SUP + product-of-coefficients ecological mediation (25 clusters, ~20% power) &middot; Third test &mdash; GEE Poisson, CR2 robust SE, IPTW &middot; AR-SAVB = alcohol-related sexual-assault victim-blaming; SUV/SUP = substance-use-related sexual-violence victimization/perpetration
   </p>
 
   <p class="anim d6" style="margin: 12px auto 0; max-width: 64ch; font-family: var(--f-display); font-size: 0.95rem; color: var(--amber-dim); font-style: italic; text-align: center;">
